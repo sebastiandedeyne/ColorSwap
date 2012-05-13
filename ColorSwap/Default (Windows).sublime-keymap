@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+s","ctrl+alt+w"], "command": "colorswap" }
+]
