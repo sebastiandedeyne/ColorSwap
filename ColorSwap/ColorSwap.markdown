@@ -3,9 +3,9 @@
 *Sublime Text 2 plugin which toggles between rgb and hex colors.*
 
 Keyboard shortcut:
-	- Windows: ctrl+alt+w, ctrl+alt+w
-	- Mac: super+ctrl+w, super+ctrl+w
-	- Linux: super+ctrl+w, super+ctrl+w
+	- Windows: ctrl+alt+s, ctrl+alt+w
+	- Mac: super+ctrl+s, super+ctrl+w
+	- Linux: super+ctrl+s, super+ctrl+w
 
 
 ##License
